@@ -1,0 +1,18 @@
+.parallax-effect {
+    text-align: justify;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+#parallax-wrapper-one{
+    background-image: url("../img/transpose-notation-1461736.jpg");
+
+}
+#parallax-wrapper-two{
+    background-image: url("../img/Vinyl\ on\ TurntableStockSnap_PU9HHZB5QW.jpg");
+
+}
+header{
+    background-color: #eaeaea;
+}
